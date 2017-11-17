@@ -1,0 +1,11 @@
+﻿span.done-true {
+    color: #d3d3d3;
+    font-style: italic;
+    text-decoration: line-through;
+}
+
+span[contenteditable="true"] {
+    background: #d3d3d3;
+    color: black;
+    padding: 3px;
+}
